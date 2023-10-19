@@ -21,6 +21,7 @@ int fetch_instruction(void);
 char *_bd_remove_newline(char *string, int longii);
 size_t _bd_strlen(const char *string);
 void present_prompt(void);
+char *bd_strncpy(char *dest, char *src, int n);
 char *_strncat(char *dest, char *src, int n);
 char *_strchr(char *s, char c);
 
