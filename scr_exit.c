@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _strncpy - copies a string
+ * bd_strncpy - copies a string
  * @dest: the destination string to be copied
  * @src: the source string
  * @n: the number of characters to be copied
@@ -29,7 +29,7 @@ char *bd_strncpy(char *dest, char *src, int n)
  * @src: the second string
  * @n: the maximum number of bytes to be used from src
  *
- * return: The pointer to the concatenated string
+ * Return: The pointer to the concatenated string
  */
 char *_strncat(char *dest, char *src, int n)
 {
