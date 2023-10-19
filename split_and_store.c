@@ -1,6 +1,7 @@
 #include "shell.h"
 /**
- * split_and_store - Splits a string into substrings and stores them in an array
+ * split_and_store - Splits a string into substrings
+ * and stores them in an array
  * @instruction: The input string to be split
  * @sequence: The array to store the substrings
  *
@@ -8,18 +9,19 @@
  */
 int split_and_store(char *instruction, char *sequence[])
 {
-    int aggregate = 0;
-    char *sub_string;
-    char *delim = " \n";
+	int aggregate = 0;
+	char *sub_string;
+	char *delim = " \n";
 
-    sub_string = strtok(instruction, delim);
+	sub_string = strtok(instruction, delim);
 
-    while (sub_string) {
-        sequence[aggregate++] = sub_string;
-        sub_string = strtok(NULL, delim);
-    }
+	while (sub_string)
+	{
+		sequence[aggregate++] = sub_string;
+		sub_string = strtok(NULL, delim);
+	}
 
-    sequence[aggregate] = NULL;
+	sequence[aggregate] = NULL;
 
-    return aggregate;
+	return (aggregate);
 }
