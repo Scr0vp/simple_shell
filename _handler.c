@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _handler - it implements functions integrated with handling
-* Owned by: Imane & Fatima Zahra
+* 
 * @line: read or process input information from stdin
 * @command: symbolzed commands
 *
