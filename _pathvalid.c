@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _pathvalid - valid Check if the path is valid
-* Owned by: Imane & Fatima Zahra
+* 
 * @path: symbolzed
 * @command: user made or entered the cmmd
 *
