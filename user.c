@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _myuser - extract $ to tell user what program
-* Owned by: Imane & Fatima Zahra
+* 
 * The prompt is sealed if the shell is in interactive mode.
 * take their input to ON initializing.
 * Return: no return
