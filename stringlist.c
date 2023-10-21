@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _stringdup - repeated string dupicates
-* Owned by: Imane & Fatima Zahra
+*
 * @s: redundant
 * Return: guide string recursive
 */
