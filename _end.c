@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _end - appends path by adding the path directly to the command
-* Owned by: Imane & Fatima Zahra
+* 
 * @path: path cmd
 * @command: user entered the cmd
 *
