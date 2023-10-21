@@ -1,4 +1,4 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 /**
 * main - he does the reading
 * All rights reserved or owned by noiseworking
