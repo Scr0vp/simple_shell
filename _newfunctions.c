@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _putchar - register character c to stdout
-* Owned by: Imane & Fatima Zahra
+* 
 * @c: character to be written
 * moment of the error -1 is returned and errno is set appropriately
 * Return: 1 success
