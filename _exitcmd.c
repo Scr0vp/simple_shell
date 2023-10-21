@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _exitcmd - exit order handling
-* Owned by: Imane & Fatima Zahra
+* 
 * @command: symbolzed
 * @line: Read input stdin
 *
