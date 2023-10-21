@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _tokens - generates tokens from a specified entry
-* Owned by: Imane & Fatima Zahra
+* 
 * @line: process to access its encoding symbolzed
 * Return: strings of set
 */
