@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _pathfind - finds local path search
-* Owned by: Imane & Fatima Zahra
+* 
 * Return: NULL if the path is not detected, or is detected
 */
 char *_pathfind(void)
