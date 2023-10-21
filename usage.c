@@ -1,10 +1,10 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
  * usage - commands used by users
  * @cp:command
  * @cmd:series of pointers go directly to orders
- * Owned by: Imane & Fatima Zahra
+ * 
  * Return: 0
  */
 void usage(char *cp, char **cmd)
