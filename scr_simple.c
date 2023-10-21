@@ -1,7 +1,6 @@
 #include "scr_simple.h"
 /**
 * main - he does the reading
-* All rights reserved or owned by noiseworking
 *
 * @ac: argument count
 * @av: argument vector
