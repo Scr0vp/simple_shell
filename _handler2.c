@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
  * _handler2 - continue to maintain the track is interactive mode
- * Owned by: Imane & Fatima Zahra
+ * 
  *
  * @m: the signal number
  * Return: nothing
