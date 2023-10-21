@@ -1,7 +1,7 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 /**
  * _checker - builtin function checks to see what kind of weather
- * Owned by: Imane & Fatima Zahra
+ * 
  * @cmd: input user
  * @buf: line derivative of the getline function
  *
