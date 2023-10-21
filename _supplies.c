@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _supplies - supplies for free
-* Owned by: Imane & Fatima Zahra
+* 
 *
 * @buf: buffer to be released
 * Return: no return
