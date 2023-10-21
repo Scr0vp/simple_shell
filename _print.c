@@ -1,8 +1,8 @@
-#include "foufa_simple.h"
+#include "scr_simple.h"
 
 /**
 * _print - environment print to mix for stdout
-* Owned by: Imane & Fatima Zahra
+* 
 *
 * Return: nothing 0
 */
