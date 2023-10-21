@@ -2,7 +2,7 @@
 
 /**
 * _end - appends path by adding the path directly to the command
-* 
+*
 * @path: path cmd
 * @command: user entered the cmd
 *
@@ -42,4 +42,3 @@ char *_end(char *path, char *command)
 	buf[i + j] = '\0';
 	return (buf);
 }
-/* this symbol has been added by Fatima Zahra*/

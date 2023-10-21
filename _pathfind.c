@@ -2,7 +2,7 @@
 
 /**
 * _pathfind - finds local path search
-* 
+*
 * Return: NULL if the path is not detected, or is detected
 */
 char *_pathfind(void)
@@ -26,4 +26,3 @@ char *_pathfind(void)
 	}
 	return (NULL);
 }
-/* this symbol has been added by Imane*/

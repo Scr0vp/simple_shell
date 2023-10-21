@@ -2,7 +2,7 @@
 
 /**
 * _putchar - register character c to stdout
-* 
+*
 * @c: character to be written
 * moment of the error -1 is returned and errno is set appropriately
 * Return: 1 success
@@ -14,7 +14,6 @@ int _putchar(char c)
 
 /**
 * _stringp - string prints
-* Owned by: Imane & Fatima Zahra
 *
 * @s: printed to assortment
 * Return: number printed charachters
@@ -31,4 +30,3 @@ int _stringp(char *s)
 
 	return (i);
 }
-/* this symbol has been added by Fatima Zahra*/

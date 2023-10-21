@@ -2,7 +2,7 @@
 
 /**
 * _exitcmd - exit order handling
-* 
+*
 * @command: symbolzed
 * @line: Read input stdin
 *

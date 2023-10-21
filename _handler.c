@@ -2,7 +2,7 @@
 
 /**
 * _handler - it implements functions integrated with handling
-* 
+*
 * @line: read or process input information from stdin
 * @command: symbolzed commands
 *

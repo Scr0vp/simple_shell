@@ -58,4 +58,4 @@ void _exitcmd(char **command, char *line);
 
 void _print(void);
 
-#endif/* this symbol has been added by Imane and Fatima Zahra*/
+#endif

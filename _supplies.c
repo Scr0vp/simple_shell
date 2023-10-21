@@ -2,7 +2,6 @@
 
 /**
 * _supplies - supplies for free
-* 
 *
 * @buf: buffer to be released
 * Return: no return

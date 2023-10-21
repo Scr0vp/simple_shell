@@ -2,7 +2,7 @@
 
 /**
 * _pathvalid - valid Check if the path is valid
-* 
+*
 * @path: symbolzed
 * @command: user made or entered the cmmd
 *
@@ -23,4 +23,3 @@ char *_pathvalid(char **path, char *command)
 	}
 	return (NULL);
 }
-/* this symbol has been added by Fatima Zahra*/

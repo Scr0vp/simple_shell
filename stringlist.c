@@ -1,7 +1,7 @@
 #include "scr_simple.h"
 
 /**
-* _stringdup - repeated string dupicates
+* _stringdup - repeated string dupicate
 *
 * @s: redundant
 * Return: guide string recursive
@@ -28,7 +28,7 @@ char *_stringdup(char *s)
 
 /**
 * _stringlg - string of retrieve length
-* Owned by: Imane & Fatima Zahra
+*
 * @s: traversal string
 * Return: returns string traversal
 */
@@ -46,7 +46,7 @@ int _stringlg(char *s)
 
 /**
 * _stringcp - it does a comparison between two strings
-* Owned by: Imane & Fatima Zahra
+*
 * @s1: paired with s2;
 * @s2: paired with s1;
 * Return: difference between the strings
@@ -65,7 +65,7 @@ int _stringcp(char *s1, char *s2)
 
 /**
 * _stringch - character string specifies the location
-* Owned by: Imane & Fatima Zahra
+*
 * @c: character location the identify
 * @s: checked string being
 * character is not detected, or a NULL operation if
@@ -86,7 +86,6 @@ char *_stringch(char *s, char c)
 
 /**
 * _stringmp - performs a comparison between two strings
-* Owned by: Imane & Fatima Zahra
 *
 * @s1: paired with s2
 * @s2: paired with s1
@@ -105,4 +104,3 @@ int _stringmp(char *s1, char *s2, int n)
 	}
 	return (0);
 }
-/* this symbols has been added by Imane and Fatima Zahra*/

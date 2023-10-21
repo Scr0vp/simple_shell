@@ -4,7 +4,7 @@
  * usage - commands used by users
  * @cp:command
  * @cmd:series of pointers go directly to orders
- * 
+ *
  * Return: 0
  */
 void usage(char *cp, char **cmd)
@@ -27,4 +27,3 @@ void usage(char *cp, char **cmd)
 	else
 		wait(&status);
 }
-/* this symbol has been added by imane */

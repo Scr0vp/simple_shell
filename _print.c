@@ -2,7 +2,6 @@
 
 /**
 * _print - environment print to mix for stdout
-* 
 *
 * Return: nothing 0
 */
@@ -18,4 +17,3 @@ void _print(void)
 		x++;
 	}
 }
-/* this symbol has been added by Fatima Zahra*/

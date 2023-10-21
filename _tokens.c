@@ -2,7 +2,7 @@
 
 /**
 * _tokens - generates tokens from a specified entry
-* 
+*
 * @line: process to access its encoding symbolzed
 * Return: strings of set
 */
@@ -46,4 +46,3 @@ char **_tokens(char *line)
 	free(buf);
 	return (symbols);
 }
-/* this symbol has been added by Imane*/
